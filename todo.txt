@@ -1,0 +1,19 @@
+CHarity PROJECT
+	Admin
+		Approve users, NGO and institu.
+		Ensure money transer security and transparency
+		Profile manage
+	Edu. Instit
+		Conduct events suggested by community/philanthris
+	NGO/philanthros 
+		Providing funds to insti/students
+		Raising funds through events
+	User/Community 
+		Upload profile as users
+		Raise funds as indiv
+		Raise funds as community
+		
+	Hiring instis
+		Access student profiles
+		HIre good stus
+		Conduct interview/online assessments
