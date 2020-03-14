@@ -1,4 +1,4 @@
-CHarity PROJECT
+CHarity DJANGO PROJECT
 	Admin
 		Approve users, NGO and institu.
 		Ensure money transer security and transparency
